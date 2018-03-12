@@ -11,6 +11,9 @@ namespace NowTimeForHW
         static void Main(string[] args)
         {
             Console.WriteLine("yes we are good");
+
+            Console.WriteLine("cool");
+            Console.WriteLine("Yes");
         }
     }
 }

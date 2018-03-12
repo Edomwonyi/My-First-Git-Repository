@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>1e55184f-74cc-4439-841e-0052bb0bc64b</ProjectGuid>
+    <ProjectGuid>{E2DF7B65-F1BE-4089-BFE0-A00FC0758694}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>NowTimeForHW</RootNamespace>
